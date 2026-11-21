@@ -32,3 +32,4 @@ const options = {
     //means routes folder ke ander jitna js files h usme swagger use ho skta h
 };
 
+export const swaggerSpec = swaggerJSDoc(options);
